@@ -1,0 +1,214 @@
+header{
+	    padding-top: 15%;
+    text-align: center;
+    color: #fff;
+    background: #18bc9c;
+    padding-bottom: 8%;
+    }
+
+body{
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+footer{
+	padding-top: 50px;
+    background-color: #2c3e50; 
+    color: white;
+    text-align: center;
+
+}
+
+#container {
+    width: 100%;
+    height: 100%;
+}
+
+hr.after.before{
+	display: inline-block;
+	border: 2px solid white;
+}
+
+/*hr.star-light:after {
+    color: #fff;
+    background-color: #18bc9c;
+}*/
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.navbar-brand{
+	font-size: 2em;
+}
+
+.navbar{
+	text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+        padding-top: 15px;
+}
+
+.bigtitle{
+	font-size: 5em;
+	text-align: center;
+	margin: auto;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.ocupation{
+	font-size: 2em;
+}
+
+#portfolio{
+	background-color: #F1F1F1;
+	width: 100%;
+}
+
+hr{
+	border: 2px solid white;
+	width: 25%;
+}
+
+h2{
+    font-size: 2.6em;
+    padding-top: 6%;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.about{
+	background: #18bc9c; 
+}
+
+.exit{
+    text-align: center;
+    color: #fff;
+    background: #18bc9c;
+    padding-bottom: 5%;
+}
+
+.definition{
+	width: 100%;
+    font-size: 1.3em;
+    text-align: left;
+}
+
+.btn-outline{
+	border: 2px solid white;
+	color: white;
+}
+
+form .row:first-child .floating-label-form-group {
+    border-top: 1px solid #eee;
+}
+.floating-label-form-group {
+    position: relative;
+    margin-bottom: 0;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #eee;
+}
+
+.titles{
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif ;
+	font-size: 2em;
+	padding: 30px 0px;
+}
+
+.btn-social {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+}
+
+footer .after-footer {
+    padding: 30px 0;
+    background-color: #233140;
+    font-size: 0.8em;
+}
+
+.form-control{
+    border: none;
+}
+
+.pt-5 {
+    padding-top: 5%;
+}
+/*color estrella*/
+hr.star-primary {
+    border-color: #2c3e50;
+}
+hr.star-light, hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+
+
+
+      /*++++++++++++++++++++++++++++      ++++++++++++++++++++
+       ++++++++++++++++++++++++++++-ABOUT-++++++++++++++++++++
+       +++++++++++++++++++++++++++++      ++++++++++++++++++++*/
+
+ header.about{
+       padding-top: 15%;
+    text-align: center;
+    color: #fff;
+    background: #18bc9c;
+    padding-bottom: 8%;
+ }
+
+ .fa-star {
+    background-color: #18bc9c;
+    /* font-size: 2em; */
+    position: relative;
+    bottom: 42px;
+    left: 0%;
+}    
+
+.information{
+        padding-top: 5%;
+
+}  
+
+ .infor{
+    width: 540px;
+ }
+
+      /*++++++++++++++++++++++++++++      ++++++++++++++++++++
+       +++++++++++++++++++++++++++-THOUGHTS-++++++++++++++++++++
+       +++++++++++++++++++++++++++++      ++++++++++++++++++++*/
+  header.thoughts{
+       padding-top: 15%;
+    text-align: center;
+    color: #fff;
+    background: #18bc9c;
+    padding-bottom: 5%;
+ }     
+
+.photo{
+    width: 100%;
+}
+
+.blog-text{
+    font-size: 20px;
+}
+
+.btn-default{
+        width: 14%;
+    height: 60px;
+    background-color: #18bc9c;
+    border: 1px solid #18bc9c;
+}
+}
